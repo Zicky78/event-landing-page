@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.nav_container {
+	height: 10vh;
+	padding: 0px 150px;
+}
+
+.nav_container ul li {
+	border: none;
+}
+
+.nav_container ul li a {
+	color: black;
+	font-size: 28px;
+	font-weight: 900;
+}
+
+.logo {
+	font-size: 32px;
+	font-weight: 600;
+}
+
+.jumbo_tron {
+	height: 65vh;
+	width: 100%;
+}
+
+.jumbotron_title {
+	font-weight: 700;
+}
+
+.jumbotron_description {
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.jumbo_btn {
+	height: 75px;
+	width: 15%;
+}
